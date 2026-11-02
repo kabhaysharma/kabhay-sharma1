@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.symbol {
+    font-size: 30px;
+}
+</style>
+</head>
+<body>
+    <p class="symbol">Ⓡ 2026 Rajan Kakkar</p>
+    <p class="symbol">Ⓚ 2026 Rajan Kakkar</p>
+</body>
+</html>
